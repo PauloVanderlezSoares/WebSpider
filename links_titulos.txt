@@ -1,0 +1,2217 @@
+Título = Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+
+Título = Busca – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Pesquisar
+
+Título = Wikipédia:Boas-vindas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Boas-vindas
+
+Título = Usuário(a) Discussão:177.38.167.0 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Minha_discuss%C3%A3o
+
+Título = Contribuições do(a) usuário(a) 177.38.167.0 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es
+
+Título = Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+
+Título = Portal:Conteúdo destacado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Portal:Conte%C3%BAdo_destacado
+
+Título = Portal:Eventos atuais – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Portal:Eventos_atuais
+
+Título = Wikipédia:Esplanada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Esplanada
+
+Título = Krishnarajasagara – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria
+
+Título = Portal:Índice – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Portal:%C3%8Dndice
+
+Título = Ajuda:Informe um erro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Informe_um_erro
+
+Título = Wikipédia:Boas-vindas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Boas-vindas
+
+Título = Ajuda:Página principal – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_principal
+
+Título = Ajuda:Página de testes – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_de_testes
+
+Título = Wikipédia:Portal comunitário – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio
+
+Título = Mudanças recentes – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Mudan%C3%A7as_recentes
+
+Título = Wikipédia:Manutenção – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o
+
+Título = Ajuda:Guia de edição/Como começar uma página – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina
+
+Título = Páginas recentes – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_novas
+
+Título = Wikipédia:Contato – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Contato
+
+Título = Not Found
+Link = https://pt.wikipedia.org//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt
+
+Título = Páginas com hiperligações para "Python" – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_afluentes/Python
+
+Título = Alterações relacionadas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Python
+
+Título = Wikipédia:Carregar ficheiro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikipedia:Carregar_ficheiro
+
+Título = Páginas especiais – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_especiais
+
+Título = Python - Wikidata
+Link = https://www.wikidata.org/wiki/Special:EntityPage/Q28865
+
+Título = Python (programming language) - Wikimedia Commons
+Link = https://commons.wikimedia.org/wiki/Python_(programming_language)
+
+Título = Python - Wikilivros
+Link = https://pt.wikibooks.org/wiki/Python
+
+Título = Python - Wikiquote
+Link = https://pt.wikiquote.org/wiki/Python
+
+Título = Introdução às Linguagens de Programação/Python - Wikiversidade
+Link = https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0s_Linguagens_de_Programa%C3%A7%C3%A3o/Python
+
+Título = Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python
+
+Título = Discussão:Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Discuss%C3%A3o:Python
+
+Título = Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python
+
+Título = Python (programmeertaal) - Wikipedia
+Link = https://af.wikipedia.org/wiki/Python_(programmeertaal)
+
+Título = Python (Programmiersprooch) - Alemannische Wikipedia
+Link = https://als.wikipedia.org/wiki/Python_(Programmiersprache)
+
+Título = Python - Biquipedia, a enciclopedia libre
+Link = https://an.wikipedia.org/wiki/Python
+
+Título = بايثون (لغة برمجة) - ويكيبيديا
+Link = https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+
+Título = পাইথন - অসমীয়া ৱিকিপিডিয়া
+Link = https://as.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8
+
+Título = Python - Wikipedia
+Link = https://ast.wikipedia.org/wiki/Python
+
+Título = Python (proqramlaşdırma dili) — Vikipediya
+Link = https://az.wikipedia.org/wiki/Python_(proqramla%C5%9Fd%C4%B1rma_dili)
+
+Título = پایتون - ویکی‌پدیا
+Link = https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86
+
+Título = Python - Wikipédia
+Link = https://ban.wikipedia.org/wiki/Python
+
+Título = Python (мова праграмавання) — Вікіпедыя
+Link = https://be.wikipedia.org/wiki/Python_(%D0%BC%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)
+
+Título = Python – Уикипедия
+Link = https://bg.wikipedia.org/wiki/Python
+
+Título = पाइथन - विकिपीडिया
+Link = https://bh.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%87%E0%A4%A5%E0%A4%A8
+
+Título = পাইথন (প্রোগ্রামিং ভাষা) - উইকিপিডিয়া
+Link = https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%87%E0%A6%A5%E0%A6%A8_(%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE)
+
+Título = Python (programski jezik) - Wikipedia
+Link = https://bs.wikipedia.org/wiki/Python_(programski_jezik)
+
+Título = Python - Wikipedia
+Link = https://bug.wikipedia.org/wiki/Python
+
+Título = Python - Viquipèdia, l'enciclopèdia lliure
+Link = https://ca.wikipedia.org/wiki/Python
+
+Título = Python (programming language) - Wikipedia
+Link = https://ceb.wikipedia.org/wiki/Python_(programming_language)
+
+Título = پایتۆن (زمانی بەرنامەسازی) - ویکیپیدیا، ئینسایکڵۆپیدیای ئازاد
+Link = https://ckb.wikipedia.org/wiki/%D9%BE%D8%A7%DB%8C%D8%AA%DB%86%D9%86_(%D8%B2%D9%85%D8%A7%D9%86%DB%8C_%D8%A8%DB%95%D8%B1%D9%86%D8%A7%D9%85%DB%95%D8%B3%D8%A7%D8%B2%DB%8C)
+
+Título = Python – Wikipedie
+Link = https://cs.wikipedia.org/wiki/Python
+
+Título = Python (iaith raglennu) - Wicipedia
+Link = https://cy.wikipedia.org/wiki/Python_(iaith_raglennu)
+
+Título = Python (programmeringssprog) - Wikipedia, den frie encyklopædi
+Link = https://da.wikipedia.org/wiki/Python_(programmeringssprog)
+
+Título = Python (Programmiersprache) – Wikipedia
+Link = https://de.wikipedia.org/wiki/Python_(Programmiersprache)
+
+Título = Python - Βικιπαίδεια
+Link = https://el.wikipedia.org/wiki/Python
+
+Título = Python (programming language) - Wikipedia
+Link = https://en.wikipedia.org/wiki/Python_(programming_language)
+
+Título = Python (programlingvo) - Vikipedio
+Link = https://eo.wikipedia.org/wiki/Python_(programlingvo)
+
+Título = Python - Wikipedia, la enciclopedia libre
+Link = https://es.wikipedia.org/wiki/Python
+
+Título = Python (programmeerimiskeel) – Vikipeedia
+Link = https://et.wikipedia.org/wiki/Python_(programmeerimiskeel)
+
+Título = Python (informatika) - Wikipedia, entziklopedia askea.
+Link = https://eu.wikipedia.org/wiki/Python_(informatika)
+
+Título = پایتون (زبان برنامه‌نویسی) - ویکی‌پدیا، دانشنامهٔ آزاد
+Link = https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86_(%D8%B2%D8%A8%D8%A7%D9%86_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C)
+
+Título = Python (ohjelmointikieli) – Wikipedia
+Link = https://fi.wikipedia.org/wiki/Python_(ohjelmointikieli)
+
+Título = Python - Wikipedia
+Link = https://fj.wikipedia.org/wiki/Python
+
+Título = Python (langage) — Wikipédia
+Link = https://fr.wikipedia.org/wiki/Python_(langage)
+
+Título = Python - Wikipedia, a enciclopedia libre
+Link = https://gl.wikipedia.org/wiki/Python
+
+Título = પાયથોન(પ્રોગ્રામિંગ ભાષા) - વિકિપીડિયા
+Link = https://gu.wikipedia.org/wiki/%E0%AA%AA%E0%AA%BE%E0%AA%AF%E0%AA%A5%E0%AB%8B%E0%AA%A8(%E0%AA%AA%E0%AB%8D%E0%AA%B0%E0%AB%8B%E0%AA%97%E0%AB%8D%E0%AA%B0%E0%AA%BE%E0%AA%AE%E0%AA%BF%E0%AA%82%E0%AA%97_%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%BE)
+
+Título = פייתון – ויקיפדיה
+Link = https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%99%D7%AA%D7%95%D7%9F
+
+Título = पाइथन - विकिपीडिया
+Link = https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%87%E0%A4%A5%E0%A4%A8
+
+Título = Python (programski jezik) – Wikipedija
+Link = https://hr.wikipedia.org/wiki/Python_(programski_jezik)
+
+Título = Python (programozási nyelv) – Wikipédia
+Link = https://hu.wikipedia.org/wiki/Python_(programoz%C3%A1si_nyelv)
+
+Título = Python - Վիքիպեդիա՝ ազատ հանրագիտարան
+Link = https://hy.wikipedia.org/wiki/Python
+
+Título = Python (linguage de programmation) - Wikipedia, le encyclopedia libere
+Link = https://ia.wikipedia.org/wiki/Python_(linguage_de_programmation)
+
+Título = Python (bahasa pemrograman) - Wikipedia bahasa Indonesia, ensiklopedia bebas
+Link = https://id.wikipedia.org/wiki/Python_(bahasa_pemrograman)
+
+Título = Python (forritunarmál) - Wikipedia, frjálsa alfræðiritið
+Link = https://is.wikipedia.org/wiki/Python_(forritunarm%C3%A1l)
+
+Título = Python - Wikipedia
+Link = https://it.wikipedia.org/wiki/Python
+
+Título = Python - Wikipedia
+Link = https://ja.wikipedia.org/wiki/Python
+
+Título = paiton - Wikipedia
+Link = https://jbo.wikipedia.org/wiki/paiton
+
+Título = პაითონი (პროგრამირების ენა) - ვიკიპედია
+Link = https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%98%E1%83%97%E1%83%9D%E1%83%9C%E1%83%98_(%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%92%E1%83%A0%E1%83%90%E1%83%9B%E1%83%98%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%94%E1%83%9C%E1%83%90)
+
+Título = Python — Уикипедия
+Link = https://kk.wikipedia.org/wiki/Python
+
+Título = ផាយថុន - វិគីភីឌា
+Link = https://km.wikipedia.org/wiki/%E1%9E%95%E1%9E%B6%E1%9E%99%E1%9E%90%E1%9E%BB%E1%9E%93
+
+Título = 파이썬 - 위키백과, 우리 모두의 백과사전
+Link = https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC
+
+Título = Python (zimanê bernamesaziyê) - Wîkîpediya
+Link = https://ku.wikipedia.org/wiki/Python_(ziman%C3%AA_bernamesaziy%C3%AA)
+
+Título = Python - Wikipedia
+Link = https://ky.wikipedia.org/wiki/Python
+
+Título = Python (lingua programmandi) - Vicipaedia
+Link = https://la.wikipedia.org/wiki/Python_(lingua_programmandi)
+
+Título = Python - Wikipedia
+Link = https://lmo.wikipedia.org/wiki/Python
+
+Título = Python – Vikipedija
+Link = https://lt.wikipedia.org/wiki/Python
+
+Título = Python — Vikipēdija
+Link = https://lv.wikipedia.org/wiki/Python
+
+Título = Пајтон (програмски јазик) — Википедија
+Link = https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%98%D1%82%D0%BE%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA)
+
+Título = പൈത്തൺ (പ്രോഗ്രാമിങ്ങ് ഭാഷ) - വിക്കിപീഡിയ
+Link = https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%88%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%BA_(%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%AE%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%8D_%E0%B4%AD%E0%B4%BE%E0%B4%B7)
+
+Título = Python — Википедиа нэвтэрхий толь
+Link = https://mn.wikipedia.org/wiki/Python
+
+Título = पायथॉन - विकिपीडिया
+Link = https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%AF%E0%A4%A5%E0%A5%89%E0%A4%A8
+
+Título = Python - Wikipedia Bahasa Melayu, ensiklopedia bebas
+Link = https://ms.wikipedia.org/wiki/Python
+
+Título = Python (programming language) - ဝီကီပီးဒီးယား
+Link = https://my.wikipedia.org/wiki/Python_(programming_language)
+
+Título = Python (Programmeerspraak) – Wikipedia
+Link = https://nds.wikipedia.org/wiki/Python_(Programmeerspraak)
+
+Título = Python (programmeertaal) - Wikipedia
+Link = https://nl.wikipedia.org/wiki/Python_(programmeertaal)
+
+Título = Python – Wikipedia
+Link = https://nn.wikipedia.org/wiki/Python
+
+Título = Python – Wikipedia
+Link = https://no.wikipedia.org/wiki/Python
+
+Título = ߔߊߌߕߐ߲߬ - ߥߞߌߔߘߋߞߎ
+Link = https://nqo.wikipedia.org/wiki/%DF%94%DF%8A%DF%8C%DF%95%DF%90%DF%B2%DF%AC
+
+Título = ପାଇଥନ୍ (ପ୍ରୋଗ୍ରାମିଂ ଭାଷା) - ଉଇକିପିଡ଼ିଆ
+Link = https://or.wikipedia.org/wiki/%E0%AC%AA%E0%AC%BE%E0%AC%87%E0%AC%A5%E0%AC%A8%E0%AD%8D_(%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%97%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%AE%E0%AC%BF%E0%AC%82_%E0%AC%AD%E0%AC%BE%E0%AC%B7%E0%AC%BE)
+
+Título = ਪਾਈਥਨ (ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ) - ਵਿਕੀਪੀਡੀਆ, ਇਕ ਅਜ਼ਾਦ ਵਿਸ਼ਵਗਿਆਨਕੋਸ਼
+Link = https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%88%E0%A8%A5%E0%A8%A8_(%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A9%8B%E0%A8%97%E0%A8%B0%E0%A8%BE%E0%A8%AE%E0%A8%BF%E0%A9%B0%E0%A8%97_%E0%A8%AD%E0%A8%BE%E0%A8%B8%E0%A8%BC%E0%A8%BE)
+
+Título = Python – Wikipedia, wolna encyklopedia
+Link = https://pl.wikipedia.org/wiki/Python
+
+Título = پائیتھن (کمپیوٹر بولی) - وکیپیڈیا
+Link = https://pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A6%DB%8C%D8%AA%DA%BE%D9%86_(%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1_%D8%A8%D9%88%D9%84%DB%8C)
+
+Título = Python - Wikipedia
+Link = https://ro.wikipedia.org/wiki/Python
+
+Título = Python — Википедия
+Link = https://ru.wikipedia.org/wiki/Python
+
+Título = Python — Бикипиэдьийэ
+Link = https://sah.wikipedia.org/wiki/Python
+
+Título = ᱯᱟᱭᱛᱷᱚᱱ(ᱯᱨᱳᱜᱽᱨᱟᱢᱤᱝ ᱯᱟᱹᱨᱥᱤ) - ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ
+Link = https://sat.wikipedia.org/wiki/%E1%B1%AF%E1%B1%9F%E1%B1%AD%E1%B1%9B%E1%B1%B7%E1%B1%9A%E1%B1%B1(%E1%B1%AF%E1%B1%A8%E1%B1%B3%E1%B1%9C%E1%B1%BD%E1%B1%A8%E1%B1%9F%E1%B1%A2%E1%B1%A4%E1%B1%9D_%E1%B1%AF%E1%B1%9F%E1%B1%B9%E1%B1%A8%E1%B1%A5%E1%B1%A4)
+
+Título = Python (programmin leid) - Wikipedia
+Link = https://sco.wikipedia.org/wiki/Python_(programmin_leid)
+
+Título = Python programski jezik - Wikipedia
+Link = https://sh.wikipedia.org/wiki/Python_programski_jezik
+
+Título = Python (programming language) - ဝီႇၶီႇၽီးတီးယႃး
+Link = https://shn.wikipedia.org/wiki/Python_(programming_language)
+
+Título = පයිතන් - විකිපීඩියා
+Link = https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BA%E0%B7%92%E0%B6%AD%E0%B6%B1%E0%B7%8A
+
+Título = Python (programming language) - Simple English Wikipedia, the free encyclopedia
+Link = https://simple.wikipedia.org/wiki/Python_(programming_language)
+
+Título = Python (programovací jazyk) – Wikipédia
+Link = https://sk.wikipedia.org/wiki/Python_(programovac%C3%AD_jazyk)
+
+Título = Python (programski jezik) - Wikipedija, prosta enciklopedija
+Link = https://sl.wikipedia.org/wiki/Python_(programski_jezik)
+
+Título = Python - Wikipedia
+Link = https://sq.wikipedia.org/wiki/Python
+
+Título = Python (програмски језик) — Википедија
+Link = https://sr.wikipedia.org/wiki/Python_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA)
+
+Título = Python (programspråk) – Wikipedia
+Link = https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)
+
+Título = Python (Lugha ya programu) - Wikipedia, kamusi elezo huru
+Link = https://sw.wikipedia.org/wiki/Python_(Lugha_ya_programu)
+
+Título = பைத்தான் - தமிழ் விக்கிப்பீடியா
+Link = https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D
+
+Título = పైథాన్ (కంప్యూటర్ భాష) - వికీపీడియా
+Link = https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%88%E0%B0%A5%E0%B0%BE%E0%B0%A8%E0%B1%8D_(%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%8D_%E0%B0%AD%E0%B0%BE%E0%B0%B7)
+
+Título = Python — Википедия
+Link = https://tg.wikipedia.org/wiki/Python
+
+Título = ไพทอน (ภาษาโปรแกรม) - วิกิพีเดีย
+Link = https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9E%E0%B8%97%E0%B8%AD%E0%B8%99_(%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1)
+
+Título = Python (wikang pamprograma) - Wikipedia, ang malayang ensiklopedya
+Link = https://tl.wikipedia.org/wiki/Python_(wikang_pamprograma)
+
+Título = Python (programlama dili) - Vikipedi
+Link = https://tr.wikipedia.org/wiki/Python_(programlama_dili)
+
+Título = Python — Wikipedia
+Link = https://tt.wikipedia.org/wiki/Python
+
+Título = پايسون - Wikipedia
+Link = https://ug.wikipedia.org/wiki/%D9%BE%D8%A7%D9%8A%D8%B3%D9%88%D9%86
+
+Título = Python — Вікіпедія
+Link = https://uk.wikipedia.org/wiki/Python
+
+Título = پائیتھن (پروگرامنگ زبان) - آزاد دائرۃ المعارف، ویکیپیڈیا
+Link = https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A6%DB%8C%D8%AA%DA%BE%D9%86_(%D9%BE%D8%B1%D9%88%DA%AF%D8%B1%D8%A7%D9%85%D9%86%DA%AF_%D8%B2%D8%A8%D8%A7%D9%86)
+
+Título = Python - Vikipediya
+Link = https://uz.wikipedia.org/wiki/Python
+
+Título = Python (ngôn ngữ lập trình) – Wikipedia tiếng Việt
+Link = https://vi.wikipedia.org/wiki/Python_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)
+
+Título = Python (lingaedje éndjolike) — Wikipedia
+Link = https://wa.wikipedia.org/wiki/Python_(lingaedje_%C3%A9ndjolike)
+
+Título = Python (programming language) - Wikipedia
+Link = https://war.wikipedia.org/wiki/Python_(programming_language)
+
+Título = Python - 维基百科
+Link = https://wuu.wikipedia.org/wiki/Python
+
+Título = Python - 维基百科，自由的百科全书
+Link = https://zh.wikipedia.org/wiki/Python
+
+Título = Python – Wikipedia
+Link = https://zh-min-nan.wikipedia.org/wiki/Python
+
+Título = Python - 維基百科，自由嘅百科全書
+Link = https://zh-yue.wikipedia.org/wiki/Python
+
+Título = Python - Wikidata
+Link = https://www.wikidata.org/wiki/Special:EntityPage/Q28865#sitelinks-wikipedia
+
+Título = Python (desambiguação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_(desambigua%C3%A7%C3%A3o)
+
+Título = Ficheiro:Python logo and wordmark.svg – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:Python_logo_and_wordmark.svg
+
+Título = Paradigma de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Paradigma_de_programa%C3%A7%C3%A3o
+
+Título = Linguagem de programação multiparadigma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiparadigma
+
+Título = Orientação a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos
+
+Título = Programação imperativa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa
+
+Título = Programação funcional – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional
+
+Título = 20 de fevereiro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/20_de_fevereiro
+
+Título = 1991 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1991
+
+Título = Versão – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Vers%C3%A3o
+
+Título = Guido van Rossum – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Guido_van_Rossum
+
+Título = Tipo de dado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tipo_de_dado
+
+Título = Duck typing – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Duck_typing
+
+Título = CPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CPython
+
+Título = IronPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/IronPython
+
+Título = Jython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Jython
+
+Título = PyPy – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyPy
+
+Título = ABC (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/ABC_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = ALGOL 68 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/ALGOL_68
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Haskell (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Haskell_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Icon (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Icon_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Java (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Lisp – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lisp
+
+Título = Modula-3 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Modula-3
+
+Título = Perl – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Perl
+
+Título = Smalltalk – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Smalltalk
+
+Título = Boo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Boo
+
+Título = CoffeeScript – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CoffeeScript
+
+Título = D (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/D_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Fantom – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Fantom
+
+Título = Go (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Go_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Groovy – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Groovy
+
+Título = JavaScript – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/JavaScript
+
+Título = Julia (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Julia_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Nim (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Nim_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Py (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Py_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Ruby (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Squirrel – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Squirrel
+
+Título = Swift (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Swift_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Licença de software – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_de_software
+
+Título = Extensão de nome de ficheiro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Extens%C3%A3o_de_nome_de_ficheiro
+
+Título = Sítio eletrónico – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Site
+
+Título = Linguagem de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o_de_alto_n%C3%ADvel
+
+Título = Linguagem interpretada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_interpretada
+
+Título = Linguagem de script – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_script
+
+Título = Programação imperativa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa
+
+Título = Orientação a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos
+
+Título = Programação funcional – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional
+
+Título = Tipo de dado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tipo_de_dado
+
+Título = Guido van Rossum – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Guido_van_Rossum
+
+Título = 1991 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1991
+
+Título = Organização sem fins lucrativos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_sem_fins_lucrativos
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = De facto – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/De_facto
+
+Título = CPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CPython
+
+Título = Sintaxe – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sintaxe
+
+Título = Biblioteca (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_de_rotinas
+
+Título = Módulo de um programa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/M%C3%B3dulo_de_um_programa
+
+Título = Framework – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Framework
+
+Título = Linguagem de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o_de_alto_n%C3%ADvel
+
+Título = Linguagem de programação multiparadigma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o_multiparadigma
+
+Título = CGI – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CGI
+
+Título = Stack Overflow – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Stack_Overflow
+
+Título = RedMonk – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/RedMonk
+
+Título = Reino Unido – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Reino_Unido
+
+Título = Monty Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Monty_Python
+
+Título = Monty Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Monty_Python
+
+Título = Répteis – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/R%C3%A9ptil
+
+Título = Língua portuguesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa
+
+Título = Python (gênero) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/P%C3%ADton
+
+Título = Ficheiro:He invented Python.jpg – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:He_invented_Python.jpg
+
+Título = Ficheiro:He invented Python.jpg – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:He_invented_Python.jpg
+
+Título = Guido van Rossum – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Guido_van_Rossum
+
+Título = 1989 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1989
+
+Título = Guido van Rossum – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Guido_van_Rossum
+
+Título = Países Baixos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Pa%C3%ADses_Baixos
+
+Título = ABC (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/ABC_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Tratamento de exceção – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tratamento_de_exce%C3%A7%C3%B5es
+
+Título = Sistema operativo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_operacional
+
+Título = Amoeba (sistema operacional) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Amoeba_(sistema_operacional)
+
+Título = Linguagem de script – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_script
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Tempo de execução – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tempo_de_execu%C3%A7%C3%A3o
+
+Título = 1991 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1991
+
+Título = Classe (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o)
+
+Título = Herança (programação orientada a objetos) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Heran%C3%A7a_(programa%C3%A7%C3%A3o)
+
+Título = Método (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sub-rotina
+
+Título = Tipo de dado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tipo_de_dado
+
+Título = Lista – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lista
+
+Título = Dicionário – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Dicion%C3%A1rio
+
+Título = Cadeia de caracteres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Cadeia_de_caracteres
+
+Título = Modula-3 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Modula-3
+
+Título = 1994 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1994
+
+Título = Programação funcional – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_funcional
+
+Título = Cálculo lambda – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda
+
+Título = 1995 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1995
+
+Título = Reston – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Reston
+
+Título = Estados Unidos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Estados_Unidos
+
+Título = Número complexo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/N%C3%BAmero_complexo
+
+Título = Programação orientada a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Encapsulamento
+
+Título = Programação de computadores – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_de_computadores
+
+Título = Defense Advanced Research Projects Agency – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/DARPA
+
+Título = 2000 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/2000
+
+Título = Compreensão de lista – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/List_comprehension
+
+Título = SETL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SETL
+
+Título = Haskell (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Haskell_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Palavra reservada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Palavra_reservada
+
+Título = Coletor de lixo (informática) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Coletor_de_lixo_(inform%C3%A1tica)
+
+Título = Virgínia – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Virg%C3%ADnia
+
+Título = Free Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Free_Software_Foundation
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_GPL
+
+Título = Versão alfa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Vers%C3%A3o_alfa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Organização sem fins lucrativos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_sem_fins_lucrativos
+
+Título = Apache Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Apache_Software_Foundation
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Gerador (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Generator_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Icon (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Icon_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Java (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Análise sintática (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Analisador_sint%C3%A1tico
+
+Título = Simple API for XML – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SAX
+
+Título = 1 de outubro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/1_de_outubro
+
+Título = 2008 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/2008
+
+Título = Biblioteca (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)
+
+Título = Multiprocessamento – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiprocessamento
+
+Título = JSON – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/JSON
+
+Título = Entrada/saída – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/E/S
+
+Título = Cadeia de caracteres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Cadeia_de_caracteres
+
+Título = Servidor de aplicação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Servidor_de_aplica%C3%A7%C3%A3o
+
+Título = Computação gráfica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_gr%C3%A1fica
+
+Título = Linguagem de script – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_script
+
+Título = OpenOffice.org – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/OpenOffice
+
+Título = Blender – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Blender
+
+Título = Procedimento armazenado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Procedimento_armazenado_(banco_de_dados)
+
+Título = Sistema de gerenciamento de banco de dados – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_gerenciador_de_banco_de_dados
+
+Título = PostgreSQL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PostgreSQL
+
+Título = Versão alfa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Vers%C3%A3o_alfa
+
+Título = 31 de agosto – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/31_de_agosto
+
+Título = 2007 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/2007
+
+Título = 7 de dezembro – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/7_de_dezembro
+
+Título = Palavra reservada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Palavra_reservada
+
+Título = Unicode – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Unicode
+
+Título = Cadeia de caracteres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Cadeia_de_caracteres
+
+Título = Ficheiro:Python 3. The standard type hierarchy.png – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:Python_3._The_standard_type_hierarchy.png
+
+Título = Ficheiro:Python 3. The standard type hierarchy.png – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:Python_3._The_standard_type_hierarchy.png
+
+Título = Zen of Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Zen_of_Python
+
+Título = Programador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programador
+
+Título = Ovo de páscoa (virtual) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Easter_egg
+
+Título = Estrutura de seleção – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Estrutura_de_sele%C3%A7%C3%A3o
+
+Título = Estrutura de repetição – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Estrutura_de_repeti%C3%A7%C3%A3o
+
+Título = Classe (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o)
+
+Título = Método (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sub-rotina
+
+Título = Exclusão mútua – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Exclus%C3%A3o_m%C3%BAtua
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Perl – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Perl
+
+Título = Tipo de dado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tipo_de_dado
+
+Título = Cadeia de caracteres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Cadeia_de_caracteres
+
+Título = Lista – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lista
+
+Título = Énuplo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tupla
+
+Título = Conjunto – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Conjunto
+
+Título = Ordenação (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ordena%C3%A7%C3%A3o_(computa%C3%A7%C3%A3o)
+
+Título = Conjunto – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Conjunto
+
+Título = Vírgula flutuante – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ponto_flutuante
+
+Título = Número complexo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/N%C3%BAmero_complexo
+
+Título = Boolean – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Booleano
+
+Título = Classe (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o)
+
+Título = Metaprogramação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Metaprograma%C3%A7%C3%A3o
+
+Título = Reflexão (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Reflex%C3%A3o_(programa%C3%A7%C3%A3o)
+
+Título = Método (programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/M%C3%A9todo_(programa%C3%A7%C3%A3o)
+
+Título = Palavra reservada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Palavra_reservada
+
+Título = Compilador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Compila%C3%A7%C3%A3o
+
+Título = Ficheiro:Python script.svg – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:Python_script.svg
+
+Título = Ficheiro:Python script.svg – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ficheiro:Python_script.svg
+
+Título = Análise léxica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/An%C3%A1lise_l%C3%A9xica
+
+Título = Análise sintática (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/An%C3%A1lise_sint%C3%A1tica_(computa%C3%A7%C3%A3o)
+
+Título = Token – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Token
+
+Título = LIFO – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/LIFO
+
+Título = Indentação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Indenta%C3%A7%C3%A3o
+
+Título = Indentação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Indenta%C3%A7%C3%A3o
+
+Título = BASIC – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/BASIC
+
+Título = Fortran – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Fortran
+
+Título = Pascal (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Editor de texto – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Editor_de_texto
+
+Título = Análise léxica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/An%C3%A1lise_l%C3%A9xica
+
+Título = Ambiente de desenvolvimento integrado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ambiente_de_Desenvolvimento_Integrado
+
+Título = Palavra reservada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Palavra_reservada
+
+Título = Cadeia de caracteres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Cadeia_de_caracteres
+
+Título = Compilador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Compilador
+
+Título = Máquina virtual – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/M%C3%A1quina_virtual
+
+Título = Bytecode – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Bytecode
+
+Título = Núcleo (sistema operacional) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/N%C3%BAcleo_(inform%C3%A1tica)
+
+Título = Tempo de execução – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tempo_de_execu%C3%A7%C3%A3o
+
+Título = Orientação a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_orientada_a_objeto
+
+Título = Metaclasse – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Metaclasse
+
+Título = Polimorfismo (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Polimorfismo
+
+Título = Herança (programação orientada a objetos) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Heran%C3%A7a_(programa%C3%A7%C3%A3o)
+
+Título = Herança múltipla – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Heran%C3%A7a_m%C3%BAltipla
+
+Título = Programação orientada a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Encapsulamento
+
+Título = Compreensão de lista – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/List_comprehension
+
+Título = Quicksort – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Quicksort
+
+Título = Cálculo lambda – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%C3%A1lculo_Lambda
+
+Título = Clausura (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Clausura_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Gerador (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Generator_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Avaliação preguiçosa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Avalia%C3%A7%C3%A3o_pregui%C3%A7osa
+
+Título = Tratamento de exceção – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tratamento_de_exce%C3%A7%C3%B5es
+
+Título = Thread (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Thread_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Concorrência (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Concorr%C3%AAncia_(inform%C3%A1tica)
+
+Título = Biblioteca (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_de_rotinas
+
+Título = Internet – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Internet
+
+Título = Protocolo (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Protocolo_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = MIME – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MIME
+
+Título = Hypertext Transfer Protocol – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+Título = Interface gráfica do utilizador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Interface_gr%C3%A1fica_do_utilizador
+
+Título = Banco de dados relacional – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Banco_de_dados_relacional
+
+Título = Expressão regular – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Express%C3%A3o_regular
+
+Título = Web Server Gateway Interface – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Web_Server_Gateway_Interface
+
+Título = Cython - Wikipedia
+Link = https://en.wikipedia.org/wiki/Cython
+
+Título = SWIG - Wikipedia
+Link = https://en.wikipedia.org/wiki/SWIG
+
+Título = Boost (bibliotecas de C++) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_Boost
+
+Título = C++ – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%2B%2B
+
+Título = Fortran – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Fortran
+
+Título = Api – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/API
+
+Título = Plataforma (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)
+
+Título = Unix – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Unix
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = FreeBSD – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/FreeBSD
+
+Título = Solaris (sistema operacional) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Solaris_(sistema_operacional)
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS_X
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Windows
+
+Título = .NET – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/.NET
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS
+
+Título = Nokia – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Nokia
+
+Título = Personal digital assistant – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PDA
+
+Título = Sistema operativo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_operacional
+
+Título = Compilador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Compilador
+
+Título = Bytecode – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Bytecode
+
+Título = Multiplataforma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiplataforma
+
+Título = CPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CPython
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C89
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Microsoft_Windows
+
+Título = Sistema operacional tipo Unix – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Unix-like
+
+Título = Multitarefa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multitarefa
+
+Título = Thread (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Thread_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Jython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Jython
+
+Título = Java (plataforma de software) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plataforma_Java
+
+Título = IronPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/IronPython
+
+Título = .NET – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/.NET
+
+Título = 2005 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/2005
+
+Título = Nokia – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Nokia
+
+Título = Telefone celular – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Telefone_celular
+
+Título = Symbian – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Symbian
+
+Título = palmOne, Inc. – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Palm
+
+Título = PyPy – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyPy
+
+Título = Interpretador de comandos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Interpretador_de_comandos
+
+Título = Interatividade – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Interatividade
+
+Título = Benevolent Dictator for Life – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Benevolent_Dictator_for_Life
+
+Título = Subversion – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Subversion
+
+Título = Software livre – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%C3%B3digo_livre
+
+Título = Open Source Initiative – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Open_Source_Initiative
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Código-fonte – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%C3%B3digo_fonte
+
+Título = Biblioteca (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_de_rotinas
+
+Título = Django (framework web) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Django_(framework_web)
+
+Título = World Wide Web – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WWW
+
+Título = Desenvolvimento web – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Desenvolvimento_web
+
+Título = Pylons project – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Pylons_(framework_web)
+
+Título = World Wide Web – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WWW
+
+Título = TurboGears – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/TurboGears_(framework_web)
+
+Título = Matplotlib – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Matplotlib
+
+Título = Processamento de imagem – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Processamento_de_imagem
+
+Título = Python Imaging Library – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Imaging_Library
+
+Título = Imagem digital – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Imagem_digital
+
+Título = Multiplataforma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiplataforma
+
+Título = OpenGL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/OpenGL
+
+Título = Computação gráfica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_gr%C3%A1fica
+
+Título = Pygame – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Pygame
+
+Título = Desenvolvimento de jogos eletrônicos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Desenvolvimento_de_jogos_eletr%C3%B4nicos
+
+Título = SDL (biblioteca) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SDL_(biblioteca)
+
+Título = Desenvolvimento de jogos eletrônicos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Desenvolvimento_de_jogos_eletr%C3%B4nicos
+
+Título = Twisted – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Twisted
+
+Título = Servidor web – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Servidor_web
+
+Título = Servidor de aplicação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Servidor_de_aplica%C3%A7%C3%A3o
+
+Título = Secure Shell – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SSH
+
+Título = Protocolo (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Protocolo_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)
+
+Título = Desenvolvimento de software – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Desenvolvimento_de_software
+
+Título = Sistema de processamento distribuído – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_distribu%C3%ADda
+
+Título = Sistema de processamento distribuído – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_distribu%C3%ADda
+
+Título = Zope Object Database – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/ZODB
+
+Título = Persistência (ciência da computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Persist%C3%AAncia_de_dados
+
+Título = Banco de dados orientado a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Banco_de_dados_orientado_a_objetos
+
+Título = Banco de dados – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Banco_de_dados
+
+Título = Plone – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plone
+
+Título = Sistema de gerenciamento de conteúdo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo
+
+Título = CherryPy – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CherryPy
+
+Título = web2py – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Web2py
+
+Título = SQLObject – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SQLObject
+
+Título = Mapeamento objeto-relacional – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Mapeamento_objeto-relacional
+
+Título = Banco de dados – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Banco_de_dados
+
+Título = Computação científica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_cient%C3%ADfica
+
+Título = Computação científica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_cient%C3%ADfica
+
+Título = Biblioteca (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_de_rotinas
+
+Título = Interface gráfica do utilizador – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GUI
+
+Título = Tkinter – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tkinter
+
+Título = PyGTK – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyGTK
+
+Título = GTK – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GTK%2B
+
+Título = PyQt – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyQt
+
+Título = Qt – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Qt
+
+Título = wxPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WxPython
+
+Título = wxWidgets – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WxWidgets
+
+Título = Enlightenment Foundation Libraries – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Enlightenment_Foundation_Libraries
+
+Título = Toolkit – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Toolkit
+
+Título = Ambiente de desenvolvimento integrado – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado
+
+Título = Plataforma (computação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plataforma_(inform%C3%A1tica)
+
+Título = Toolkit – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Toolkit
+
+Título = Licença de software – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_de_Software
+
+Título = IDLE – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/IDLE
+
+Título = Guido van Rossum – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Guido_van_Rossum
+
+Título = CPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/CPython
+
+Título = Multiplataforma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiplataforma
+
+Título = Tkinter – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Tkinter
+
+Título = Java (plataforma de software) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plataforma_Java
+
+Título = Swing (Java) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Swing_(Java)
+
+Título = Licença Apache – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_Apache
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Microsoft_Windows
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS
+
+Título = XUL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/XUL
+
+Título = Licença pública Mozilla – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_p%C3%BAblica_Mozilla
+
+Título = Atom (editor de texto) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Atom_(editor_de_texto)
+
+Título = GitHub – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GitHub
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Microsoft_Windows
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS
+
+Título = Electron (software) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Electron_(software)
+
+Título = Licença MIT – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = GTK – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GTK
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Multiplataforma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiplataforma
+
+Título = PyQt – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyQt
+
+Título = Licença BSD – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_BSD
+
+Título = wxPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WxPython
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Eric Python IDE – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Eric_Python_IDE
+
+Título = Qt – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Qt
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Geany – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Geany
+
+Título = GTK – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GTK%2B
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Windows
+
+Título = Microsoft Visual Studio – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Visual_Studio
+
+Título = Eclipse (software) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Eclipse_(software)
+
+Título = Java (plataforma de software) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plataforma_Java
+
+Título = Standard Widget Toolkit – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Standard_Widget_Toolkit
+
+Título = PythonCard – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PythonCard
+
+Título = Multiplataforma – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Multiplataforma
+
+Título = wxPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WxPython
+
+Título = Licença BSD – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_BSD
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Windows
+
+Título = Licença MIT – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT
+
+Título = wxPython – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/WxPython
+
+Título = GNU General Public License – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GNU_General_Public_License
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Microsoft_Windows
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS
+
+Título = PyQt – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyQt
+
+Título = Licença MIT – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT
+
+Título = Microsoft Windows – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Microsoft_Windows
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = macOS – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/MacOS
+
+Título = PyGTK – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PyGTK
+
+Título = Software proprietário – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Software_propriet%C3%A1rio
+
+Título = Servidor de aplicação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Servidor_de_aplica%C3%A7%C3%A3o
+
+Título = Zope – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Zope
+
+Título = Mnet – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Mnet
+
+Título = YouTube – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/YouTube
+
+Título = BitTorrent – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/BitTorrent
+
+Título = Google – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Google
+
+Título = Rastreador web – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Crawler
+
+Título = Yahoo! – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Yahoo!
+
+Título = NASA – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/NASA
+
+Título = Air Canada – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Air_Canada
+
+Título = Segurança da informação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o
+
+Título = Autodesk Maya – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Maya_(software)
+
+Título = Autodesk Softimage – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Autodesk_Softimage
+
+Título = trueSpace – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/TrueSpace
+
+Título = Blender – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Blender
+
+Título = GIMP – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GIMP
+
+Título = Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linux
+
+Título = Red Hat Linux – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Red_Hat_Linux
+
+Título = Plone – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Plone
+
+Título = Sistema de gerenciamento de conteúdo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo
+
+Título = Industrial Light & Magic – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Industrial_Light_%26_Magic
+
+Título = Star Wars – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Star_Wars
+
+Título = Computação gráfica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_gr%C3%A1fica
+
+Título = Django (framework web) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Django_(framework_web)
+
+Título = Nim (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Nim_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Perl – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Perl
+
+Título = Ruby (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Stack Overflow – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Stack_Overflow
+
+Título = RedMonk – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/RedMonk
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/9788575225080
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Oracle – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Oracle
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Python Software Foundation – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Python_Software_Foundation
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Autodesk – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Autodesk
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Blender – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Blender
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = GIMP – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GIMP
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Língua inglesa – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-1-5905-9356-1
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-1-4302-2415-0
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-1-4493-3072-9
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-1-4493-5573-9
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-0-596-15810-1
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = International Standard Book Number – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/International_Standard_Book_Number
+
+Título = Fontes bibliográficas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Fontes_de_livros/978-1-4493-4037-7
+
+Título = Ajuda:Erros nas referências – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Erros_nas_refer%C3%AAncias#deprecated_params
+
+Título = Movimento Wikimedia – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikimedia
+
+Título = Resultados da pesquisa de "Python" - Wikcionário
+Link = https://pt.wiktionary.org/wiki/Special:Search/Python
+
+Título = Resultados da pesquisa de "Python" - Wikcionário
+Link = https://pt.wiktionary.org/wiki/Special:Search/Python
+
+Título = Wikcionário
+Link = https://pt.wiktionary.org/wiki/P%C3%A1gina_principal
+
+Título = Python - Wikilivros
+Link = https://pt.wikibooks.org/wiki/Special:Search/Python
+
+Título = Python - Wikilivros
+Link = https://pt.wikibooks.org/wiki/Special:Search/Python
+
+Título = Wikilivros, livros abertos por um mundo aberto
+Link = https://pt.wikibooks.org/wiki/P%C3%A1gina_principal
+
+Título = Python - Wikiquote
+Link = https://pt.wikiquote.org/wiki/Special:Search/Python
+
+Título = Python - Wikiquote
+Link = https://pt.wikiquote.org/wiki/Special:Search/Python
+
+Título = Wikiquote
+Link = https://pt.wikiquote.org/wiki/P%C3%A1gina_principal
+
+Título = Category:Python (programming language) - Wikimedia Commons
+Link = https://commons.wikimedia.org/wiki/Special:Search/Category:Python_(programming_language)
+
+Título = Category:Python (programming language) - Wikimedia Commons
+Link = https://commons.wikimedia.org/wiki/Special:Search/Category:Python_(programming_language)
+
+Título = Página principal - Wikimedia Commons
+Link = https://commons.wikimedia.org/wiki/P%C3%A1gina_principal
+
+Título = Category:Python (programming language) - Wikimedia Commons
+Link = https://commons.wikimedia.org/wiki/Special:Search/Category:Python_(programming_language)
+
+Título = Python - Wikiquote
+Link = https://pt.wikiquote.org/wiki/Special:Search/Python
+
+Título = Python - Wikilivros
+Link = https://pt.wikibooks.org/wiki/Special:Search/Python
+
+Título = Resultados da pesquisa de "Python" - Wikcionário
+Link = https://pt.wiktionary.org/wiki/Special:Search/Python
+
+Título = GitHub – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/GitHub
+
+Título = DMOZ – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/DMOZ
+
+Título = Predefinição:Linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Predefinição Discussão:Linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o_Discuss%C3%A3o:Linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Linguagem de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o
+
+Título = Linguagem de programação esotérica – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o_esot%C3%A9rica
+
+Título = Comparação entre linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Compara%C3%A7%C3%A3o_entre_linguagens_de_programa%C3%A7%C3%A3o
+
+Título = História das linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Hist%C3%B3ria_das_linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Turing completude – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Turing_completude
+
+Título = Programa Olá Mundo – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Programa_Ol%C3%A1_Mundo
+
+Título = Algoritmo de Trabb Pardo-Knuth – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Algoritmo_de_Trabb_Pardo-Knuth
+
+Título = Quine (informática) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Quine_(inform%C3%A1tica)
+
+Título = Ada (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ada_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Linguagem assembly – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Linguagem_assembly
+
+Título = BASIC – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/BASIC
+
+Título = C (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = C++ – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C%2B%2B
+
+Título = C Sharp – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/C_Sharp
+
+Título = COBOL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/COBOL
+
+Título = Dart (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Dart_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Elixir (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Elixir_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Erlang (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Erlang_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Fortran – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Fortran
+
+Título = Go (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Go_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Haskell (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Haskell_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Java (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = JavaScript – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/JavaScript
+
+Título = Julia (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Julia_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Kotlin – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Kotlin
+
+Título = Lisp – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lisp
+
+Título = Lua (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = ML (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/ML_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Pascal (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Pascal_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Perl – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Perl
+
+Título = PHP – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/PHP
+
+Título = R (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/R_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Ruby (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Rust (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Scala (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Scala_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Shell script – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Shell_script
+
+Título = Smalltalk – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Smalltalk
+
+Título = SQL – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/SQL
+
+Título = Swift (linguagem de programação) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Swift_(linguagem_de_programa%C3%A7%C3%A3o)
+
+Título = Lista de linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lista_de_linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Categoria:Linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Lista de linguagens de programação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Lista_de_linguagens_de_programa%C3%A7%C3%A3o
+
+Título = Ajuda:Controle de autoridade – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Ajuda:Controle_de_autoridade
+
+Título = Wikidata
+Link = https://www.wikidata.org/wiki/Wikidata:Main_Page
+
+Título = Python - Wikidata
+Link = https://www.wikidata.org/wiki/Q28865
+
+Título = Biblioteca Nacional da França – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_Nacional_da_Fran%C3%A7a
+
+Título = Faceted Application of Subject Terminology – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Faceted_Application_of_Subject_Terminology
+
+Título = Gemeinsame Normdatei – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Gemeinsame_Normdatei
+
+Título = Número de controle da Biblioteca do Congresso – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/N%C3%BAmero_de_controle_da_Biblioteca_do_Congresso
+
+Título = Biblioteca Técnica Nacional de Praga – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Biblioteca_t%C3%A9cnica_nacional_de_Praga
+
+Título = Sistema Universitário de Documentação – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Sistema_Universit%C3%A1rio_de_Documenta%C3%A7%C3%A3o
+
+Título = Categorias – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Especial:Categorias
+
+Título = Categoria:Linguagens de programação orientadas a objetos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_de_programa%C3%A7%C3%A3o_orientadas_a_objetos
+
+Título = Categoria:Linguagens de programação baseadas em classes – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_de_programa%C3%A7%C3%A3o_baseadas_em_classes
+
+Título = Categoria:Linguagens de script – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_de_script
+
+Título = Categoria:Linguagens interpretadas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_interpretadas
+
+Título = Categoria:Compiladores e interpretadores livres – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Compiladores_e_interpretadores_livres
+
+Título = Categoria:Python – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Python
+
+Título = Categoria:Software livre – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Software_livre
+
+Título = Categoria:Linguagens de programação criadas em 1991 – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Linguagens_de_programa%C3%A7%C3%A3o_criadas_em_1991
+
+Título = Categoria:Invenções dos Países Baixos – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:Inven%C3%A7%C3%B5es_dos_Pa%C3%ADses_Baixos
+
+Título = Categoria:!CS1 manut: Língua não reconhecida – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_manut:_L%C3%ADngua_n%C3%A3o_reconhecida
+
+Título = Categoria:!CS1 inglês-fontes em língua (en) – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!CS1_ingl%C3%AAs-fontes_em_l%C3%ADngua_(en)
+
+Título = Categoria:!Artigos bons na Wikipédia em árabe – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!Artigos_bons_na_Wikip%C3%A9dia_em_%C3%A1rabe
+
+Título = Categoria:!Artigos bons na Wikipédia em alemão – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!Artigos_bons_na_Wikip%C3%A9dia_em_alem%C3%A3o
+
+Título = Categoria:!Artigos bons na Wikipédia em inglês – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!Artigos_bons_na_Wikip%C3%A9dia_em_ingl%C3%AAs
+
+Título = Categoria:!Páginas que usam referências com parâmetros obsoletas – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Categoria:!P%C3%A1ginas_que_usam_refer%C3%AAncias_com_par%C3%A2metros_obsoletas
+
+Título = Termos e condições de uso - Wikimedia Foundation Governance Wiki
+Link = https://foundation.wikimedia.org/wiki/Condições_de_Uso
+
+Título = Política de Privacidade - Meta
+Link = https://meta.wikimedia.org/wiki/Privacy_policy/pt-br
+
+Título = Wikipédia:Sobre a Wikipédia – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre
+
+Título = Wikipédia:Aviso geral – Wikipédia, a enciclopédia livre
+Link = https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Aviso_geral
+
+Título = How to contribute - MediaWiki
+Link = https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+
+Título = Cookie statement - Wikimedia Foundation Governance Wiki
+Link = https://foundation.wikimedia.org/wiki/Cookie_statement
+
