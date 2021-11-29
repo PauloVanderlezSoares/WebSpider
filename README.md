@@ -1,7 +1,7 @@
 # WebSpider
 
  ### main_webcrawler.py
- é o arquivo principal que aciona o WebSpider
+ - é o arquivo principal que aciona o WebSpider
 
  ### web_crawler.py
  - é o arquivo com o código do objeto WebSpider
